@@ -16,8 +16,8 @@ import html
 # CONFIG - UPDATE THIS
 # -----------------------
 # Replace these with your GitHub username/repo
-GITHUB_USER = "GITHUB_USER"
-REPO_NAME = "REPO_NAME"
+GITHUB_USER = "cozylatte"
+REPO_NAME = "viman-dashboard"
 
 # Raw URL to the data file produced by the GitHub Action (data/data.json)
 DATA_RAW_URL = "https://raw.githubusercontent.com/cozylatte/viman-dashboard/main/data/data.json"
