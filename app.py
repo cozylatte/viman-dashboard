@@ -27,7 +27,7 @@ st.set_page_config(
 # ----------------------
 # FRONTEND AUTO REFRESH
 # ----------------------
-st_autorefresh(interval=3600000, key="frontend_autorefresh")  # 1 hour
+st_autorefresh(interval=60000, key="frontend_autorefresh")  # 1 hour
 
 # ----------------------
 # STYLED HEADER
