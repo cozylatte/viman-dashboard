@@ -20,7 +20,7 @@ GITHUB_USER = "GITHUB_USER"
 REPO_NAME = "REPO_NAME"
 
 # Raw URL to the data file produced by the GitHub Action (data/data.json)
-DATA_RAW_URL = f"https://raw.githubusercontent.com/{GITHUB_USER}/{REPO_NAME}/main/data/data.json"
+DATA_RAW_URL = "https://raw.githubusercontent.com/cozylatte/viman-dashboard/main/data/data.json"
 
 # Auto-refresh in browser every 60 minutes (3600000 ms)
 st_autorefresh(interval=60 * 60 * 1000, key="frontend_autorefresh")
