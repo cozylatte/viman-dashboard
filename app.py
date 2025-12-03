@@ -41,13 +41,23 @@ selected_categories = st.sidebar.multiselect(
 # -----------------------
 # Fetch data.json from GitHub (raw)
 # -----------------------
+# Fetch data.json from GitHub (raw)
+# -----------------------
 @st.cache_data(ttl=300)  # cache for 5 minutes
 def load_remote_data(url):
     try:
         r = requests.get(url, timeout=12)
         r.raise_for_status()
         data = r.json()
-        df = pd.DataFrame(data)
+        if len(data) == 0:
+            # Empty DataFrame with expected columns
+            df = pd.DataFrame(columns=["Category", "Description", "Source", "lat", "lon", "timestamp"])
+        else:
+            df = pd.DataFrame(data)
+            # Ensure all required columns exist
+            for col in ["Category", "Description", "Source", "lat", "lon", "timestamp"]:
+                if col not in df.columns:
+                    df[col] = ""
         return df
     except Exception as e:
         st.error(f"Could not fetch data.json from GitHub: {e}")
@@ -56,9 +66,14 @@ def load_remote_data(url):
 df = load_remote_data(DATA_RAW_URL)
 
 # Keep only Viman Nagar mentions (safety)
+for col in ["Description", "Category", "Source"]:
+    if col not in df.columns:
+        df[col] = ""
+        
 df["Description"] = df["Description"].fillna("")
 df["Category"] = df["Category"].fillna("Social Media")
 df["Source"] = df["Source"].fillna("Unknown")
+
 if not df.empty:
     df = df[df["Description"].str.lower().str.contains("viman nagar|vimannagar|viman_nagar|viman-nagar|viman")]
     df = df.reset_index(drop=True)
