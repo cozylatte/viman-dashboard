@@ -33,11 +33,13 @@ jobs:
         run: |
           python scraper.py
 
-      # Step 5: Commit & push updated data.json
-      - name: Commit and push updated data.json
+      # Step 5: Commit & push updated data.json using PAT
+      - name: Commit & push updated data.json
         run: |
           git config --global user.name "cozylatte"
           git config --global user.email "aarushic.official@gmail.com"
           git add data/data.json
           git commit -m "Update data.json from scraper" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/cozylatte/viman-dashboard.git HEAD:main
+          git push https://$PAT@github.com/cozylatte/viman-dashboard.git HEAD:main
+        env:
+          PAT: ${{ secrets.PAT }}
