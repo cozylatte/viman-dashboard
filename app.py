@@ -27,15 +27,15 @@ st.set_page_config(
 # ----------------------
 # FRONTEND AUTO REFRESH
 # ----------------------
-st_autorefresh(interval=60000, key="frontend_autorefresh")  # 1 hour
+st_autorefresh(interval=3600000, key="frontend_autorefresh")  # 1 hour
 
 # ----------------------
 # STYLED HEADER
 # ----------------------
 st.markdown(
     """
-    <h1 style='text-align:center; color: #4B0082;'>🌆 Viman Nagar Civic Dashboard</h1>
-    <p style='text-align:center; color: #555;'>Data (hourly) from free public sources. Frontend auto-refreshes every hour.</p>
+    <h1 style='text-align:center; color: #FFFFFF;'>🌆 Viman Nagar Civic Dashboard</h1>
+    <p style='text-align:center; color: #555;'>Data (hourly) from free public sources. Auto-refreshes every hour.</p>
     """, unsafe_allow_html=True
 )
 
