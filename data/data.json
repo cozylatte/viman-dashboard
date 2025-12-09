@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "Category": "Social Media",
+    "Description": "com/city/pune/suv-hits-two-vehicles-in-vimannagar-one-injured/articleshow/125845346",
+    "Source": "News",
+    "lat": null,
+    "lon": null,
+    "timestamp": "2025-12-10T02:53:05.478897+05:30"
+  },
+  {
+    "Category": "Social Media",
+    "Description": "cms\" commonState=\"[object Object]\" frmappuse=\"1\"><span>SUV hits two vehicles in Vimannagar, one injured</span></a></div><div class=\"col_l_4 col_m_4 PYjFE \"><a href=\"https://timesofindia",
+    "Source": "News",
+    "lat": null,
+    "lon": null,
+    "timestamp": "2025-12-10T02:53:05.478961+05:30"
+  },
+  {
+    "Category": "Social Media",
+    "Description": "cms\",\"upd\":\"1765225132146\",\"dl\":\"1765225132000\",\"lpt\":\"1765225133313\",\"secname\":\"Pune\",\"imageid\":\"125846623\",\"imagesize\":\"43662\"},{\"id\":\"125845346\",\"hl\":\"SUV hits two vehicles in Vimannagar, one injured\",\"dm\":\"toi\",\"tn\":\"news\",\"wu\":\"https:\\u002F\\u002Ftimesofindia",
+    "Source": "News",
+    "lat": null,
+    "lon": null,
+    "timestamp": "2025-12-10T02:53:05.478972+05:30"
+  },
+  {
+    "Category": "Social Media",
+    "Description": "com\\u002Fcity\\u002Fpune\\u002Fsuv-hits-two-vehicles-in-vimannagar-one-injured\\u002Farticleshow\\u002F125845346",
+    "Source": "News",
+    "lat": null,
+    "lon": null,
+    "timestamp": "2025-12-10T02:53:05.478980+05:30"
+  }
+]
