@@ -5,7 +5,7 @@
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2025-12-29T22:03:03.007925+05:30"
+    "timestamp": "2025-12-29T22:53:52.774210+05:30"
   },
   {
     "Category": "Social Media",
@@ -13,7 +13,7 @@
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2025-12-29T22:03:03.007974+05:30"
+    "timestamp": "2025-12-29T22:53:52.774264+05:30"
   },
   {
     "Category": "Social Media",
@@ -21,7 +21,7 @@
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2025-12-29T22:03:03.007988+05:30"
+    "timestamp": "2025-12-29T22:53:52.774279+05:30"
   },
   {
     "Category": "Social Media",
@@ -29,7 +29,7 @@
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2025-12-29T22:03:03.007999+05:30"
+    "timestamp": "2025-12-29T22:53:52.774290+05:30"
   },
   {
     "Category": "Social Media",
@@ -37,22 +37,30 @@
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2025-12-29T22:03:03.008007+05:30"
+    "timestamp": "2025-12-29T22:53:52.774298+05:30"
   },
   {
-    "Category": "Bus Delays",
-    "Description": "com/city/pune/east-side-boom-viman-nagar-kalyani-nagar/\" rel=\"bookmark\" class=\"td-image-wrap \" title=\"The East Side Boom: Why Viman Nagar &#038; Kalyani Nagar are Pune’s Business Powerhouses\" ><span class=\"entry-thumb td-thumb-css\" data-type=\"css_image\" data-img-url=\"https://i0",
+    "Category": "Social Media",
+    "Description": "com/city/one-way-traffic-system-viman-nagar-reduces-travel-time/\" rel=\"bookmark\" class=\"td-image-wrap \" title=\"One-Way Traffic System in Viman Nagar Cuts Travel Time by Eight Minutes: Police\" ><span class=\"entry-thumb td-thumb-css\" data-type=\"css_image\" data-img-url=\"https://i0",
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2025-12-29T22:03:04.435751+05:30"
+    "timestamp": "2025-12-29T22:53:54.659869+05:30"
   },
   {
-    "Category": "Bus Delays",
-    "Description": "com/city/pune/east-side-boom-viman-nagar-kalyani-nagar/\" rel=\"bookmark\" title=\"The East Side Boom: Why Viman Nagar &#038; Kalyani Nagar are Pune’s Business Powerhouses\">The East Side Boom: Why Viman Nagar &#038; Kalyani Nagar are Pune’s Business Powerhouses</a></h3>",
+    "Category": "Social Media",
+    "Description": "com/city/one-way-traffic-system-viman-nagar-reduces-travel-time/\" rel=\"bookmark\" title=\"One-Way Traffic System in Viman Nagar Cuts Travel Time by Eight Minutes: Police\">One-Way Traffic System in Viman Nagar Cuts Travel Time by Eight",
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2025-12-29T22:03:04.435786+05:30"
+    "timestamp": "2025-12-29T22:53:54.659903+05:30"
+  },
+  {
+    "Category": "Social Media",
+    "Description": "</a></h3> <div class=\"td-excerpt\"> PUNE: Stroll through Koregaon Park, Viman Nagar, or FC",
+    "Source": "News",
+    "lat": null,
+    "lon": null,
+    "timestamp": "2025-12-29T22:53:54.659914+05:30"
   }
 ]
