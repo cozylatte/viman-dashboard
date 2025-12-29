@@ -1,11 +1,43 @@
 [
   {
+    "Category": "Social Media",
+    "Description": "com/city/pune/one-way-traffic-system-in-vimannagar-reduces-travel-time-acp/articleshow/126219539",
+    "Source": "News",
+    "lat": null,
+    "lon": null,
+    "timestamp": "2025-12-29T07:42:29.485757+05:30"
+  },
+  {
+    "Category": "Social Media",
+    "Description": "cms\" commonState=\"[object Object]\" frmappuse=\"1\"><span>One-way traffic system in Vimannagar reduces travel time: ACP</span></a><a href=\"https://timesofindia",
+    "Source": "News",
+    "lat": null,
+    "lon": null,
+    "timestamp": "2025-12-29T07:42:29.485797+05:30"
+  },
+  {
+    "Category": "Social Media",
+    "Description": "cms\",\"upd\":\"1766966940000\",\"dl\":\"1766966940000\",\"lpt\":\"1766948995195\",\"secname\":\"Pune\",\"imageid\":\"126219554\",\"imagesize\":\"39052\"},{\"id\":\"126219539\",\"hl\":\"One-way traffic system in Vimannagar reduces travel time: ACP\",\"dm\":\"toi\",\"tn\":\"news\",\"wu\":\"https:\\u002F\\u002Ftimesofindia",
+    "Source": "News",
+    "lat": null,
+    "lon": null,
+    "timestamp": "2025-12-29T07:42:29.485807+05:30"
+  },
+  {
+    "Category": "Social Media",
+    "Description": "com\\u002Fcity\\u002Fpune\\u002Fone-way-traffic-system-in-vimannagar-reduces-travel-time-acp\\u002Farticleshow\\u002F126219539",
+    "Source": "News",
+    "lat": null,
+    "lon": null,
+    "timestamp": "2025-12-29T07:42:29.485814+05:30"
+  },
+  {
     "Category": "Bus Delays",
     "Description": "com/city/crime/illegal-pub-the-noir-busted-in-punes-viman-nagar-52-booked-liquor-seized/\" rel=\"bookmark\" class=\"td-image-wrap \" title=\"Illegal Pub ‘The Noir’ Busted in Pune’s Viman Nagar; 52 Booked, Liquor Seized\" ><span class=\"entry-thumb td-thumb-css\" data-type=\"css_image\" data-img-url=\"https://i0",
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2025-12-29T04:54:40.476935+05:30"
+    "timestamp": "2025-12-29T07:42:31.609795+05:30"
   },
   {
     "Category": "Bus Delays",
@@ -13,6 +45,6 @@
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2025-12-29T04:54:40.476979+05:30"
+    "timestamp": "2025-12-29T07:42:31.609820+05:30"
   }
 ]
