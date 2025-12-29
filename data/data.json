@@ -5,31 +5,39 @@
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2025-12-29T12:12:57.174407+05:30"
+    "timestamp": "2025-12-29T13:01:28.626796+05:30"
   },
   {
     "Category": "Social Media",
-    "Description": "cms\" commonState=\"[object Object]\" frmappuse=\"1\"><span>One-way traffic system in Vimannagar reduces travel time: ACP</span></a><a href=\"https://timesofindia",
+    "Description": "cms\", \"name\":\"One-way traffic system in Vimannagar reduces travel time: ACP\" } , { \"@type\": \"ListItem\", \"position\": \"15\",",
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2025-12-29T12:12:57.174463+05:30"
+    "timestamp": "2025-12-29T13:01:28.626834+05:30"
   },
   {
     "Category": "Social Media",
-    "Description": "cms\",\"upd\":\"1766966940000\",\"dl\":\"1766966940000\",\"lpt\":\"1766948995195\",\"secname\":\"Pune\",\"imageid\":\"126219554\",\"imagesize\":\"39052\"},{\"id\":\"126219539\",\"hl\":\"One-way traffic system in Vimannagar reduces travel time: ACP\",\"dm\":\"toi\",\"tn\":\"news\",\"wu\":\"https:\\u002F\\u002Ftimesofindia",
+    "Description": "com&amp;utm_medium=social&amp;utm_campaign=TOIDesktop\" data-plugin=\"twitter-share\"></span></div></li><li><span class=\"w_tle\"><a href=\"/city/pune/one-way-traffic-system-in-vimannagar-reduces-travel-time-acp/articleshow/126219539",
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2025-12-29T12:12:57.174474+05:30"
+    "timestamp": "2025-12-29T13:01:28.626847+05:30"
   },
   {
     "Category": "Social Media",
-    "Description": "com\\u002Fcity\\u002Fpune\\u002Fone-way-traffic-system-in-vimannagar-reduces-travel-time-acp\\u002Farticleshow\\u002F126219539",
+    "Description": "cms\" title=\"One-way traffic system in Vimannagar reduces travel time: ACP\" pg=\"Latest News#>City-Pune-15-geturl\" hid=\"-212882199115\">One-way traffic system in Vimannagar reduces travel time: ACP</a></span><div class=\"scl-wdgt\"><span class=\"fb\" pg=\"",
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2025-12-29T12:12:57.174481+05:30"
+    "timestamp": "2025-12-29T13:01:28.626860+05:30"
+  },
+  {
+    "Category": "Social Media",
+    "Description": "jpg\" data-title=\"One-way traffic system in Vimannagar reduces travel time: ACP\" data-url=\"/city/pune/one-way-traffic-system-in-vimannagar-reduces-travel-time-acp/articleshow/126219539",
+    "Source": "News",
+    "lat": null,
+    "lon": null,
+    "timestamp": "2025-12-29T13:01:28.626869+05:30"
   },
   {
     "Category": "Bus Delays",
@@ -37,7 +45,7 @@
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2025-12-29T12:12:59.305356+05:30"
+    "timestamp": "2025-12-29T13:01:30.499035+05:30"
   },
   {
     "Category": "Bus Delays",
@@ -45,6 +53,6 @@
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2025-12-29T12:12:59.305392+05:30"
+    "timestamp": "2025-12-29T13:01:30.499070+05:30"
   }
 ]
