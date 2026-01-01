@@ -5,7 +5,7 @@
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2026-01-01T16:52:49.272570+05:30"
+    "timestamp": "2026-01-01T18:24:04.772113+05:30"
   },
   {
     "Category": "Social Media",
@@ -13,7 +13,7 @@
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2026-01-01T16:52:49.272631+05:30"
+    "timestamp": "2026-01-01T18:24:04.772173+05:30"
   },
   {
     "Category": "Social Media",
@@ -21,15 +21,15 @@
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2026-01-01T16:52:49.272651+05:30"
+    "timestamp": "2026-01-01T18:24:04.772192+05:30"
   },
   {
     "Category": "Social Media",
-    "Description": "ty_AL\\u002FTOI_City_AL_ATF_300\",\"slotId\":\"1517220297486-1\",\"size\":[300,250],\"pos\":\"rhs\",\"jname\":\"mrec\",\"groupName\":\"mrecs\"}]},{\"tn\":\"three_col_news\",\"items\":[{\"id\":\"126278682\",\"hl\":\"Water & roads top Vimannagar residents’ demands ahead of PMC election\",\"dm\":\"toi\",\"tn\":\"news\",\"wu\":\"https:\\u002F\\u002Ftimesofindia",
+    "Description": "s\",\"upd\":\"1767232440000\",\"dl\":\"1767232440000\",\"lpt\":\"1767214272644\",\"secname\":\"Pune\",\"imageid\":\"126278629\",\"imagesize\":\"60128\",\"target\":\"_blank\",\"gaindex\":7},{\"id\":\"126278682\",\"hl\":\"Water & roads top Vimannagar residents’ demands ahead of PMC election\",\"dm\":\"toi\",\"tn\":\"news\",\"wu\":\"https:\\u002F\\u002Ftimesofindia",
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2026-01-01T16:52:49.272667+05:30"
+    "timestamp": "2026-01-01T18:24:04.772208+05:30"
   },
   {
     "Category": "Social Media",
@@ -37,6 +37,6 @@
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2026-01-01T16:52:49.272674+05:30"
+    "timestamp": "2026-01-01T18:24:04.772216+05:30"
   }
 ]
