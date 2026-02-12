@@ -5,7 +5,7 @@
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2026-02-12T17:19:15.801374+05:30"
+    "timestamp": "2026-02-12T18:51:26.641797+05:30"
   },
   {
     "Category": "Social Media",
@@ -13,7 +13,7 @@
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2026-02-12T17:19:15.801427+05:30"
+    "timestamp": "2026-02-12T18:51:26.641861+05:30"
   },
   {
     "Category": "Social Media",
@@ -21,7 +21,7 @@
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2026-02-12T17:19:15.801441+05:30"
+    "timestamp": "2026-02-12T18:51:26.641880+05:30"
   },
   {
     "Category": "Social Media",
@@ -29,15 +29,15 @@
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2026-02-12T17:19:15.801469+05:30"
+    "timestamp": "2026-02-12T18:51:26.641926+05:30"
   },
   {
     "Category": "Social Media",
-    "Description": "\",\"secname\":\"Pune\",\"createdTime\":\"7 hours ago\",\"imageid\":\"128223929\",\"imagesize\":\"28142\"}]},{\"tn\":\"column_2_list\",\"hasImage\":\"1\",\"items\":[{\"id\":\"128223425\",\"hl\":\"Joint anti-encroachment drive held in Vimannagar\",\"dm\":\"toi\",\"tn\":\"news\",\"wu\":\"https:\\u002F\\u002Ftimesofindia",
+    "Description": "80000\",\"dl\":\"1770870480000\",\"lpt\":\"1770839947674\",\"secname\":\"Pune\",\"createdTime\":\"9 hours ago\",\"imageid\":\"128223929\",\"imagesize\":\"28142\"},{\"id\":\"128223425\",\"hl\":\"Joint anti-encroachment drive held in Vimannagar\",\"dm\":\"toi\",\"tn\":\"news\",\"wu\":\"https:\\u002F\\u002Ftimesofindia",
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2026-02-12T17:19:15.801479+05:30"
+    "timestamp": "2026-02-12T18:51:26.641941+05:30"
   },
   {
     "Category": "Social Media",
@@ -45,14 +45,6 @@
     "Source": "News",
     "lat": null,
     "lon": null,
-    "timestamp": "2026-02-12T17:19:15.801486+05:30"
-  },
-  {
-    "Category": "Social Media",
-    "Description": "80000\",\"dl\":\"1770870480000\",\"lpt\":\"1770839947674\",\"secname\":\"Pune\",\"createdTime\":\"7 hours ago\",\"imageid\":\"128223929\",\"imagesize\":\"28142\"},{\"id\":\"128223425\",\"hl\":\"Joint anti-encroachment drive held in Vimannagar\",\"dm\":\"toi\",\"tn\":\"news\",\"wu\":\"https:\\u002F\\u002Ftimesofindia",
-    "Source": "News",
-    "lat": null,
-    "lon": null,
-    "timestamp": "2026-02-12T17:19:15.801502+05:30"
+    "timestamp": "2026-02-12T18:51:26.641952+05:30"
   }
 ]
